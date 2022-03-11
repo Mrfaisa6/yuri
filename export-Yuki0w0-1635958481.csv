@@ -1,3 +1,3 @@
-action,actor,actor_location.country_code,created_at,org,repo,user,data.email,data.hook_id,data.events,data.events_were,data.target_login,data.old_user,data.team,data.runner_group_id,data.runner_group_name,data.runner_group_visibility,data.runner_group_allow_public,data.started_at,data.cancelled_at,data.head_branch,data.head_sha,data.trigger_id,data.event,data.workflow_id,data.workflow_run_id,data.runner_id,data.runner_name,data.source_version,data.target_version
+الإجراء ، الفاعل ، ممثل_الموقع. runner_group_name ، data.runner_group_visibility ، data.runner_group_allow_public ، data.started_at ، data.cancelled_at ، data.head_branch ، data.head_sha ، data.trigger_id ، data.event ، data.workflow_id ، data.workflow_run_id ، data. data.source_version ، data.target_version
 user.create,Yuki0w0,ZA,1635958375624,,,Yuki0w0,yuki.yuri124@gmail.com,,,,,,,,,,,,,,,,,,,,,,
 user.login,Yuki0w0,ZA,1635958376022,,,Yuki0w0,,,,,,,,,,,,,,,,,,,,,,,
